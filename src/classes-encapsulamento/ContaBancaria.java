@@ -112,6 +112,7 @@ public class ContaBancaria {
                 }
                 case 6 -> conta.verificarUsoChequeEspecial();
                 case 7 -> System.out.println("Encerrando sistema bancário...");
+                    case 7 -> System.out.println("Encerrando sistema bancário...");
                 default -> System.out.println("Opção inválida.");
             }
         }
