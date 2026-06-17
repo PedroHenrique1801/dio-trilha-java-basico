@@ -10,15 +10,17 @@ O objetivo principal é aplicar conceitos de lógica de programação, boas prá
 
 O código fonte está organizado dentro do diretório `src/`, dividido pelas seguintes etapas de aprendizado:
 
-*  `01-sintaxe/`: Conceitos de variáveis, operadores, anatomia de classes e tipos primitivos.
-*  `02-controle-fluxo/`: Estruturas condicionais (`if-else`, `switch-case`).
-*  `03-estruturas-repeticao/`: Laços de repetição (`for`, `while`, `do-while`) e arrays.
-*  `04-metodos/`: Criação, definição e chamada de métodos em Java.
+*  `fundamentos
+*  `estrutura-controles
+*  `classes-encapsulamentos
+*  `heranca-polimorfismo
+*  `interface-lambdas
+*  `collections
 
 ## Tecnologias Utilizadas
 
-* **Linguagem:** Java 21
-* **Ferramentas:** IDE (IntelliJ IDEA / Eclipse), Git e GitHub.
+* **Linguagem:** Java 17+
+* **Ferramentas:** IDE (IntelliJ IDEA / Eclipse),VSCode, Git e GitHub.
 
 ---
 *Estudante de Engenharia de Software focado em desenvolvimento backend, automação e dados.*
