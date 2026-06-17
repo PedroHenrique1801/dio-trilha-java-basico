@@ -10,12 +10,12 @@ O objetivo principal é aplicar conceitos de lógica de programação, boas prá
 
 O código fonte está organizado dentro do diretório `src/`, dividido pelas seguintes etapas de aprendizado:
 
-*  `fundamentos
-*  `estrutura-controles
-*  `classes-encapsulamentos
-*  `heranca-polimorfismo
-*  `interface-lambdas
-*  `collections
+*  fundamentos
+*  estrutura-controles
+*  classes-encapsulamentos
+*  heranca-polimorfismo
+*  interface-lambdas
+*  collections
 
 ## Tecnologias Utilizadas
 
