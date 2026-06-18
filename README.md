@@ -19,7 +19,7 @@ O código fonte está organizado dentro do diretório `src/`, dividido pelas seg
 
 ## Tecnologias Utilizadas
 
-* **Linguagem:** Java 17
+* **Linguagem:** Java 17+
 * **Ferramentas:** IDE (IntelliJ IDEA / Eclipse),VSCode, Git e GitHub.
 
 ---
