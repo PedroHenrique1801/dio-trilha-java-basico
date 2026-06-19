@@ -10,7 +10,7 @@ public class AreaQuadrado {
         // Utilizando double para permitir medidas reais
         double lado = scanner.nextDouble();
         
-        double area = lado * lado;  
+        double area = lado * lado;   
 
         // %.2f formata a saída para exibir apenas duas casas decimais
         System.out.printf("A área do quadrado é: %.2f\n", area);
