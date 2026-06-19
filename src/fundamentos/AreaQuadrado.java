@@ -5,7 +5,7 @@ public class AreaQuadrado {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("--- Calculadora de Área: Quadrado ---");
-        System.out.print("Informe o tamanho do lado do quadrado: "); 
+        System.out.print("Informe o tamanho do lado do quadrado: ");
         
         // Utilizando double para permitir medidas reais
         double lado = scanner.nextDouble();
