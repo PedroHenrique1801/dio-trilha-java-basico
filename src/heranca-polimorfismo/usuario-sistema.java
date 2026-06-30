@@ -55,7 +55,6 @@ public class Vendedor extends Usuario {
     private int quantidadeVendas;
 
     public Vendedor(String nome, String email, String senha) {
-        // Administrador é obrigatoriamente false
         super(nome, email, senha, false);
         this.quantidadeVendas = 0;
     }
