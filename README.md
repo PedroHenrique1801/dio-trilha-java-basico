@@ -17,7 +17,7 @@ O código fonte está organizado dentro do diretório `src/`, dividido pelas seg
 *  interface-lambdas
 *  collections
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 
 
 * **Linguagem:** Java 17+
 
